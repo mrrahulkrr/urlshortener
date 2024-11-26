@@ -91,17 +91,3 @@ Deployed on Render: [Deployed URL]
 
 
 
-
-B. Deployment on Render (Recommended):
-1. Sign up/Login to Render (https://render.com)
-2. Create a new Web Service
-3. Connect to your GitHub repository
-4. Configure build settings:
-   - Build Command: `npm install`
-   - Start Command: `npm start`
-5. Add environment variables in Render dashboard
-   - MONGODB_URI
-   - PORT
-   - RATE_LIMIT_WINDOW_MS
-   - RATE_LIMIT_MAX_REQUESTS
-
