@@ -84,7 +84,7 @@ RATE_LIMIT_MAX_REQUESTS=100
 - Rate limit exceeded returns 429
 
 ## Deployment
-Deployed on Render: [Deployed URL]
+Deployed on Render: "https://urlshortener-ekxu.onrender.com"
 
 ## Rate Limiting
 - 100 requests per minute per IP address
